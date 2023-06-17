@@ -1,0 +1,62 @@
+
+
+
+.header {
+    text-align: center;
+    font-weight: 400px;
+    font-size: 20px;
+    width: 760px;
+    margin:auto;
+}
+
+.header p {
+    color: #5F6980;
+    ;
+}
+.team {
+    width: 1300px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.team > div{
+    display: inline-block;
+    width: 310px;
+    border: 1px solid #EAECF0;
+    margin-bottom: 48px;
+}
+
+.team div div {
+    padding: 16px;
+
+}
+
+.team ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.team li {
+    margin: 24px 16px 0px 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+.position {
+    color: black;
+}
+
+.positiontext {
+    color: #3E3E59;
+    ;
+}
